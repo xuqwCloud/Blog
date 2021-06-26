@@ -4,7 +4,7 @@
 
 React系列正在更新中……
 
-### React
+### React系列
 
 1. [使用CRA创建react项目](https://github.com/xuqwCloud/Blog/issues/1)
 
